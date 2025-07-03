@@ -44,13 +44,12 @@ Example output:
 Local Forecast:
 
 This Afternoon 3 July 2025 at 01:00 PM EDT to 3 July 2025 at 06:00 PM EDT
-Temp: 93°F | Wind: NE at 5 mph | Precip: 13%
+Temp: 93F | Wind: NE at 5 mph | Precip: 13%
+Mostly sunny, with a high near 93. Heat index values as high as 102. Northeast wind around 5 mph. New rainfall amounts less than a tenth of an inch possible.
 
 Tonight 3 July 2025 at 06:00 PM EDT to 4 July 2025 at 06:00 AM EDT
-Temp: 73°F | Wind: E at 1 to 5 mph | Precip: 15%
-
-Independence Day 4 July 2025 at 06:00 AM EDT to 4 July 2025 at 06:00 PM EDT
-Temp: 95°F | Wind: NE at 2 to 9 mph | Precip: 9%
+Temp: 73F | Wind: E at 1 to 5 mph | Precip: 15%
+A slight chance of showers and thunderstorms between 7pm and 8pm. Partly cloudy, with a low around 73. Heat index values as high as 100. East wind 1 to 5 mph. Chance of precipitation is 20%. New rainfall amounts less than a tenth of an inch possible.
 ...
 ```
 

@@ -202,7 +202,7 @@ format:
 	go fmt ./...
 
 run:
-	go run .
+	@go run .
 
 build:
 	go build -o ~/.local/bin/weather .

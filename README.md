@@ -76,7 +76,7 @@ If you find bugs, it’s probably the API, not my code. Okay, okay, it might be 
 
 ## 💡 How It Works (Who Needs a Phone Anyway?)
 
-- **Step 1**: Weather CLI asks the internet politely, “Where am I?” (via [ip-api](http://ip-api.com)).
+- **Step 1**: Weather CLI asks the internet politely, “Where am I?”.
 - **Step 2**: It leverages the U.S. **National Weather Service (NWS)** API for a detailed weather forecast. That’s right, a government-backed weather tool (you're welcome, taxpayers).
 - **Step 3**: Results are displayed in a terminal-friendly, minimalist format. Every forecast is fetched just for YOU. Okay, and maybe everyone else with your public IP.
 

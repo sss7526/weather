@@ -1,0 +1,47 @@
+go run .
+
+Local Forecast:
+
+This Afternoon 3 July 2025 at 01:00 PM EDT to 3 July 2025 at 06:00 PM EDT
+Temp: 93F | Wind: NE at 5 mph | Precip: 13%
+
+Tonight 3 July 2025 at 06:00 PM EDT to 4 July 2025 at 06:00 AM EDT
+Temp: 73F | Wind: E at 1 to 5 mph | Precip: 15%
+
+Independence Day 4 July 2025 at 06:00 AM EDT to 4 July 2025 at 06:00 PM EDT
+Temp: 95F | Wind: NE at 2 to 9 mph | Precip: 9%
+
+Friday Night 4 July 2025 at 06:00 PM EDT to 5 July 2025 at 06:00 AM EDT
+Temp: 72F | Wind: E at 3 to 9 mph | Precip: 11%
+
+Saturday 5 July 2025 at 06:00 AM EDT to 5 July 2025 at 06:00 PM EDT
+Temp: 92F | Wind: NE at 6 to 12 mph | Precip: 25%
+
+Saturday Night 5 July 2025 at 06:00 PM EDT to 6 July 2025 at 06:00 AM EDT
+Temp: 71F | Wind: NE at 5 to 10 mph | Precip: 25%
+
+Sunday 6 July 2025 at 06:00 AM EDT to 6 July 2025 at 06:00 PM EDT
+Temp: 92F | Wind: NE at 7 mph | Precip: 40%
+
+Sunday Night 6 July 2025 at 06:00 PM EDT to 7 July 2025 at 06:00 AM EDT
+Temp: 73F | Wind: NW at 2 to 6 mph | Precip: 40%
+
+Monday 7 July 2025 at 06:00 AM EDT to 7 July 2025 at 06:00 PM EDT
+Temp: 95F | Wind: W at 2 to 6 mph | Precip: 25%
+
+Monday Night 7 July 2025 at 06:00 PM EDT to 8 July 2025 at 06:00 AM EDT
+Temp: 75F | Wind: SW at 2 to 6 mph | Precip: 25%
+
+Tuesday 8 July 2025 at 06:00 AM EDT to 8 July 2025 at 06:00 PM EDT
+Temp: 98F | Wind: W at 2 to 6 mph | Precip: 24%
+
+Tuesday Night 8 July 2025 at 06:00 PM EDT to 9 July 2025 at 06:00 AM EDT
+Temp: 75F | Wind: W at 2 to 6 mph | Precip: 24%
+
+Wednesday 9 July 2025 at 06:00 AM EDT to 9 July 2025 at 06:00 PM EDT
+Temp: 98F | Wind: W at 2 to 6 mph | Precip: 44%
+
+Wednesday Night 9 July 2025 at 06:00 PM EDT to 10 July 2025 at 06:00 AM EDT
+Temp: 74F | Wind: SW at 2 to 6 mph | Precip: 44%
+
+

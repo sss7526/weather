@@ -205,7 +205,7 @@ run:
 	@go run .
 
 build:
-	go build -o ~/.local/bin/weather .
+	go build -ldflags="-s -w" -trimpath -o ~/.local/bin/weather .
 
 ex:
 	weather
